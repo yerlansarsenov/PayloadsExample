@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PayloadsExample</string>
+    <string name="regular">Regular Adapter</string>
+    <string name="show_regular_with_payload">regular adapter with payload</string>
+    <string name="show_regular_without_payload">regular adapter WITHOUT payload</string>
+    <string name="show_composite">composite adapter</string>
+    <string name="composite">Composite Adapter</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+</resources>
